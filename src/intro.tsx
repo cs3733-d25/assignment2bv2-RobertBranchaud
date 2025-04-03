@@ -1,8 +1,8 @@
 
 
 type NameProps = {
-    bob: String
-    bran: String
+    bob: string
+    bran: string
 }
 
 export function Intro({bob, bran}: NameProps) {
