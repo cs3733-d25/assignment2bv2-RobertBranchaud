@@ -1,4 +1,4 @@
-import aiGame from "/AIgamesImage.jpg"
+import aiGame from "/consoles.webp"
 import {List} from "./list.tsx";
 import Table2 from "./table2.tsx";
 import Form2 from "./form2.tsx";
