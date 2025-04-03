@@ -1,3 +1,4 @@
+import "./list.css"
 
 type ListProps = {
     items: string[]; // Expecting an array of strings
